@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 template<typename X, typename X2>
-
+//
 class Namber
 {
 public:
